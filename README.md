@@ -1,4 +1,4 @@
-Wikipedia SU-Wiki o tematyce Steven Universe
+Wikipedia SU-Wiki o tematyce Steven Universe.
 Strona jest w trakcie tworzenia backend oraz delikatnych poprwek frontendu.
 
 Poglądowe Zdjęcia:
